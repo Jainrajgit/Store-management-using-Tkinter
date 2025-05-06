@@ -55,3 +55,6 @@ Enables **updating existing product entries** in the inventory.
 - Tkinter (usually included with Python)
 - SQLite3
 
+
+
+
